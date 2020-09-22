@@ -1,5 +1,5 @@
 <h1>
-    <img src=">https://img.icons8.com/dusk/56/private2.png"></img>PrivateRooms
+    <img src="https://img.icons8.com/dusk/56/private2.png"></img>PrivateRooms
 </h1>
 PrivateRooms is a discord bot written in python that allows members to have their own private voice and text chat which is privacy centred.
 PrivateRooms includes the following features
