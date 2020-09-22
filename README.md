@@ -1,4 +1,4 @@
-# ![PrivateRooms](https://img.icons8.com/dusk/32/private2.png)PrivateRooms
+# ![PrivateRooms](https://img.icons8.com/dusk/56/private2.png) PrivateRooms
 
 PrivateRooms is a discord bot written in python that allows members to have their own private voice and text chat which is privacy centred.
 PrivateRooms includes the following features
