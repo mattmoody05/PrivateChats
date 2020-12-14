@@ -1,4 +1,5 @@
 <h1><img align=left src="https://img.icons8.com/dusk/46/000000/lock-2.png"/>PrivateChats</h1>
+
 PrivateChats is a discord bot written in python that allows members to have their own private voice and text chat which is privacy centred.
 PrivateChats includes the following features
 * Creating a new room
